@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcandidatos=self.webpackChunkcandidatos||[]).push([[887],{2887:(t,o,a)=>{a.r(o),a.d(o,{FaqModule:()=>s});var u=a(6814),_=a(6208),l=a(9447),n=a(4769);let s=(()=>{class d{}return d.\u0275fac=function(M){return new(M||d)},d.\u0275mod=n.oAB({type:d}),d.\u0275inj=n.cJS({imports:[u.ez,_.m,l.d]}),d})()}}]);
